@@ -7,7 +7,7 @@
 A small chrome extension to count in real time the story points of a column in a board on the Jira site.
 
 <p align="center">
-    <img width="500" src="https://i.imgur.com/Kxm4yx2.png" alt="Example sur jira">
+    <img width="800" src="https://i.imgur.com/Kxm4yx2.png" alt="Example sur jira">
 </p>
 
 ## 👨‍💻 Contributing
