@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Jira Point Counter",
+  "version": "0.1.0",
+  "description": "A small extension to count in real time the story points of a column in a board on the Jira site.",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "icons": {
+    "128": "jira-logo.png"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "content.js"
+      ],
+      "matches": [
+        "https://*.atlassian.net/jira/software/projects/*/boards/*"
+      ]
+    }
+  ],
+  "permissions": [
+    "tabs"
+  ]
+}
