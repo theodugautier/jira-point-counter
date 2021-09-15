@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.twitter.com/sncfobjets " target="_blank" rel="noopener noreferrer">
-    <img width="256" src="https://i.imgur.com/LPl3gm6.png" alt="logo Jira">
+    <img width="500" src="https://i.imgur.com/LPl3gm6.png" alt="logo Jira">
   </a>
 </p>
 
