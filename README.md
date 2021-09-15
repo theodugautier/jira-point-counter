@@ -1,12 +1,14 @@
 <p align="center">
-  <a href="https://www.twitter.com/sncfobjets " target="_blank" rel="noopener noreferrer">
     <img width="500" src="https://i.imgur.com/LPl3gm6.png" alt="logo Jira">
-  </a>
 </p>
 
 # Jira Point Counter Chrome Extension
 
 A small chrome extension to count in real time the story points of a column in a board on the Jira site.
+
+<p align="center">
+    <img width="500" src="https://i.imgur.com/Kxm4yx2.png" alt="Example sur jira">
+</p>
 
 ## 👨‍💻 Contributing
 
